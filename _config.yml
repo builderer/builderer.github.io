@@ -9,3 +9,6 @@ github:
   repository_url:  https://github.com/builderer/builderer
   is_project_page: true
   is_user_page: false
+  show_examples: true
+  examples_url: https://github.com/builderer/builderer-examples
+  example_repository_nwo: builderer/builderer-examples
