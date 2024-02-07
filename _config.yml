@@ -7,3 +7,5 @@ github:
   repository_name: builderer
   repository_nwo:  builderer/builderer
   repository_url:  https://github.com/builderer/builderer
+  is_project_page: true
+  is_user_page: false
