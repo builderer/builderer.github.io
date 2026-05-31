@@ -7,7 +7,7 @@ Builderer is a fast, dependency-free build file generator for C, C++, Objective-
 
 ## Status
 
-Builderer is in early development and is actively used to maintain a multi-million line, multi-platform research monorepo. It generates Visual Studio solutions for Windows, Makefiles for Linux/macOS/WebAssembly, and Xcode projects for macOS, with first-class support for packaging macOS `.app` bundles and running WebAssembly targets under Node.js. Additional languages (Swift support landed recently and continues to grow), build systems (e.g., Ninja), and platforms (e.g. iOS) are planned. APIs may change as the project evolves, but per-project embedding ensures your build configurations remain stable.
+Builderer is in early development and is actively used to maintain a multi-million line, multi-platform research monorepo. It generates Visual Studio solutions for Windows, Makefiles for Linux/macOS/WebAssembly, and Xcode projects for macOS and iOS. APIs may change as the project evolves, but per-project embedding ensures your build configurations remain stable.
 
 ## Why Builderer?
 
